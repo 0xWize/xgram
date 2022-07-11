@@ -2,11 +2,12 @@
 import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 
-import { Row, Col, Card } from 'antd';
+import { Row, Col, Card, Button } from 'antd';
 
 import WebbDividerMedium from "../webx/webb-divider-md";
 import WebbSpinner from "../webx/webb-spinner";
 
+import { GetSalesCode } from "../../services/srvc-auth-xrpl";
 // import { GetUserCredentialsList } from "../../services/srvc-users-realm";
 
 const tokenlist = require('../../data/data-tokens-list.json')
@@ -21,6 +22,18 @@ export default function MainViewMediaModule() {
 
   const [sort, setSort] = useState([])
   const [data, setData] = useState(tokenlist.data.find(item => item.enid === id))
+
+
+  const [sale, setSale] = useState(false);
+  const [code, setCode] = useState("")
+
+  const MediaSale = async () => {
+    setSale(true);
+
+    const result = await GetSalesCode({rate: data.rate})
+    console.log (result)
+    setCode(result.data.code);
+  }
 
 
   if (loading) return ( <></> );
@@ -46,7 +59,18 @@ export default function MainViewMediaModule() {
       </div>
       
       <WebbDividerMedium />
+      <div className="p-2 back-color-wite">
+        <p className="text-bold text-lead">Price: {data.rate}</p>
+        <Button className="px-3" onClick={()=>MediaSale()}>Buy</Button>
+        <WebbDividerMedium />
 
+        <div className={`${sale ? '' : 'd-none'}`}>
+          <p className="text-bold">Scan to Buy via XUMM </p>
+          <img src={code}></img>
+        </div>
+
+      </div>
+      
     </>
   );
 

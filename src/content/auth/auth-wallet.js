@@ -26,6 +26,8 @@ export default function AuthWalletModule() {
     } else {}
   },[]);
 
+
+ 
   if (loading) return ( 
     <>
       <WebbDividerMedium />
