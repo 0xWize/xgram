@@ -1,0 +1,232 @@
+{
+  "data" : [      
+    { 
+      "nmbr": "521655628698140X",
+      "wize": "5216556286981401",
+      "meta": {
+        "name": "Media Name",
+        "memo": "Photo Shoot for Luxury Brand",
+        "form": "",
+        "sort": ""
+      },
+      "date": {
+        "stts": "2022-06-19T00:00:00.000+00:00",
+        "ents": "2022-06-19T00:00:00.000+00:00"
+      },
+      "feat": [
+        { "code": "self", "stat": true, "actv": true },
+        { "code": "next", "stat": true, "actv": true },
+        { "code": "mend", "stat": false, "actv": false },
+        { "code": "burn", "stat": true, "actv": true }
+      ],
+      "file": {
+        "link": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2F284351601_557607559317735_4214428932082918306_n.jpeg?alt=media&token=efdb1776-a631-4463-adc0-a6e7f41ddd9e",
+        "file": "",
+        "thmb": "",
+        "avtr":"https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2F284351601_557607559317735_4214428932082918306_n.jpeg?alt=media&token=efdb1776-a631-4463-adc0-a6e7f41ddd9e",
+        "data":""
+      },
+      "code": "",
+      "ntwk": "4",
+      "actv": true,
+      "ownr": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "admn": ["4c6aa5f5210f4f209e38b5be7d22c4b716555711178850"],
+      "enid": "6d4c7340-0270-4de0-9a96-3ff1c0345aac",
+      "webb": "2464cff1913941c691d5ae7c57ae4c3c",
+      "crus": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "crts": 123,
+      "mous": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "mots": 123
+    },
+    { 
+      "nmbr": "521655628698140X",
+      "wize": "5216556286981401",
+      "meta": {
+        "name": "Media Name",
+        "memo": "Photo Shoot for Luxury Brand",
+        "form": "",
+        "sort": ""
+      },
+      "date": {
+        "stts": "2022-06-19T00:00:00.000+00:00",
+        "ents": "2022-06-19T00:00:00.000+00:00"
+      },
+      "feat": [
+        { "code": "self", "stat": true, "actv": true },
+        { "code": "next", "stat": true, "actv": true },
+        { "code": "mend", "stat": false, "actv": false },
+        { "code": "burn", "stat": true, "actv": true }
+      ],
+      "file": {
+        "link": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2F283642630_146869974583048_4293931798698813409_n.jpeg?alt=media&token=207460fa-9436-45c8-aa06-b55fb50469f4",
+        "file": "",
+        "thmb": "",
+        "avtr":"https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2F283642630_146869974583048_4293931798698813409_n.jpeg?alt=media&token=207460fa-9436-45c8-aa06-b55fb50469f4",
+        "data":""
+      },
+      "code": "",
+      "ntwk": "4",
+      "actv": true,
+      "ownr": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "admn": ["4c6aa5f5210f4f209e38b5be7d22c4b716555711178850"],
+      "enid": "0e339bf3-9e8c-4b9e-94b7-5f8abe82117c",
+      "webb": "2464cff1913941c691d5ae7c57ae4c3c",
+      "crus": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "crts": 123,
+      "mous": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "mots": 123
+    },
+    { 
+      "nmbr": "521655628698140X",
+      "wize": "5216556286981401",
+      "meta": {
+        "name": "Media Name",
+        "memo": "Photo Shoot for Luxury Brand",
+        "form": "",
+        "sort": ""
+      },
+      "date": {
+        "stts": "2022-06-19T00:00:00.000+00:00",
+        "ents": "2022-06-19T00:00:00.000+00:00"
+      },
+      "feat": [
+        { "code": "self", "stat": true, "actv": true },
+        { "code": "next", "stat": true, "actv": true },
+        { "code": "mend", "stat": false, "actv": false },
+        { "code": "burn", "stat": true, "actv": true }
+      ],
+      "file": {
+        "link": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.37.42%20PM.png?alt=media&token=7a132de1-0b70-450f-bee5-12db4feffcaf",
+        "file": "",
+        "thmb": "",
+        "avtr":"https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.37.42%20PM.png?alt=media&token=7a132de1-0b70-450f-bee5-12db4feffcaf",
+        "data":""
+      },
+      "code": "",
+      "ntwk": "4",
+      "actv": true,
+      "ownr": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "admn": ["4c6aa5f5210f4f209e38b5be7d22c4b716555711178850"],
+      "enid": "2f70a1fa-ff5d-4ec4-a579-2a791f073bd4",
+      "webb": "2464cff1913941c691d5ae7c57ae4c3c",
+      "crus": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "crts": 123,
+      "mous": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "mots": 123
+    },
+    { 
+      "nmbr": "521655628698140X",
+      "wize": "5216556286981401",
+      "meta": {
+        "name": "Media Name",
+        "memo": "",
+        "form": "",
+        "sort": ""
+      },
+      "date": {
+        "stts": "2022-06-19T00:00:00.000+00:00",
+        "ents": "2022-06-19T00:00:00.000+00:00"
+      },
+      "feat": [
+        { "code": "self", "stat": true, "actv": true },
+        { "code": "next", "stat": true, "actv": true },
+        { "code": "mend", "stat": false, "actv": false },
+        { "code": "burn", "stat": true, "actv": true }
+      ],
+      "file": {
+        "link": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.39.04%20PM.png?alt=media&token=a24fa5db-675c-4a0a-b281-05a89ab0004f",
+        "file": "",
+        "thmb": "",
+        "avtr": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.39.04%20PM.png?alt=media&token=a24fa5db-675c-4a0a-b281-05a89ab0004f",
+        "data": ""
+      },
+      "code": "",
+      "ntwk": "4",
+      "actv": true,
+      "ownr": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "admn": ["4c6aa5f5210f4f209e38b5be7d22c4b716555711178850"],
+      "enid": "d7dd84a9-c1f6-41a9-8ce1-cffe263cdf67",
+      "webb": "2464cff1913941c691d5ae7c57ae4c3c",
+      "crus": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "crts": 123,
+      "mous": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "mots": 123
+    },
+    { 
+      "nmbr": "521655628698140X",
+      "wize": "5216556286981401",
+      "meta": {
+        "name": "Media Name",
+        "memo": "",
+        "form": "",
+        "sort": ""
+      },
+      "date": {
+        "stts": "2022-06-19T00:00:00.000+00:00",
+        "ents": "2022-06-19T00:00:00.000+00:00"
+      },
+      "feat": [
+        { "code": "self", "stat": true, "actv": true },
+        { "code": "next", "stat": true, "actv": true },
+        { "code": "mend", "stat": false, "actv": false },
+        { "code": "burn", "stat": true, "actv": true }
+      ],
+      "file": {
+        "link": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.39.07%20PM.png?alt=media&token=7c7241fe-b4a8-43e5-b167-84f8d4f2c835",
+        "file": "",
+        "thmb": "",
+        "avtr": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.39.07%20PM.png?alt=media&token=7c7241fe-b4a8-43e5-b167-84f8d4f2c835",
+        "data": ""
+      },
+      "code": "",
+      "ntwk": "4",
+      "actv": true,
+      "ownr": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "admn": ["4c6aa5f5210f4f209e38b5be7d22c4b716555711178850"],
+      "enid": "ea7a7247-023c-4f45-98ba-9059dfbefd19",
+      "webb": "2464cff1913941c691d5ae7c57ae4c3c",
+      "crus": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "crts": 123,
+      "mous": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "mots": 123
+    },
+    { 
+      "nmbr": "521655628698140X",
+      "wize": "5216556286981401",
+      "meta": {
+        "name": "Media Name",
+        "memo": "",
+        "form": "",
+        "sort": ""
+      },
+      "date": {
+        "stts": "2022-06-19T00:00:00.000+00:00",
+        "ents": "2022-06-19T00:00:00.000+00:00"
+      },
+      "feat": [
+        { "code": "self", "stat": true, "actv": true },
+        { "code": "next", "stat": true, "actv": true },
+        { "code": "mend", "stat": false, "actv": false },
+        { "code": "burn", "stat": true, "actv": true }
+      ],
+      "file": {
+        "link": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.39.15%20PM.png?alt=media&token=3bc7d1bb-d0aa-404b-b795-c621978fb302",
+        "file": "",
+        "thmb": "",
+        "avtr": "https://firebasestorage.googleapis.com/v0/b/wizews.appspot.com/o/wizexkoc9d24kxm%2FScreenshot%202022-06-19%20at%208.39.15%20PM.png?alt=media&token=3bc7d1bb-d0aa-404b-b795-c621978fb302",
+        "data": ""
+      },
+      "code": "",
+      "ntwk": "4",
+      "actv": true,
+      "ownr": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "admn": ["4c6aa5f5210f4f209e38b5be7d22c4b716555711178850"],
+      "enid": "42d5d363-845b-4d71-9d71-24a472ea6d2c",
+      "webb": "2464cff1913941c691d5ae7c57ae4c3c",
+      "crus": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "crts": 123,
+      "mous": "4c6aa5f5210f4f209e38b5be7d22c4b716555711178850",
+      "mots": 123
+    }
+  ]
+}

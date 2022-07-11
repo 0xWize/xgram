@@ -1,0 +1,59 @@
+{
+  "data" : [
+    {
+      "name": "Rinkeby",
+      "crnc": "ETH",
+      "mode": "TEST",
+      "code": "4",
+      "avtr": "X",
+      "cont": "0xBBaab6509C02B55a15101f49a05E0bc76401481E",
+      "urin": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "urie": "https://rinkeby.etherscan.io",
+      "actv": true
+    }, 
+    {
+      "name": "Celo",
+      "crnc": "CELO",
+      "mode": "TEST",
+      "code": "44787",
+      "avtr": "X",
+      "cont": "0xA95BcE7F5A01141974cAA180872D02B0A5B2C320",
+      "urin": "https://alfajores-forno.celo-testnet.org",
+      "urie": "",
+      "actv": false
+    },
+    {
+      "name": "Celo",
+      "crnc": "CELO",
+      "mode": "MAIN",
+      "code": "42220",
+      "avtr": "X",
+      "cont": "0x307cc5AD845F24773F17cDE8B6863E0F202e7B30",
+      "urin": "https://forno.celo.org",
+      "urie": "",
+      "actv": false
+    },
+    {
+      "name": "Polygon",
+      "crnc": "MATIC",
+      "mode": "TEST",
+      "code": "80001",
+      "avtr": "X",
+      "cont": "0xcB1379E5caE4eBEbaC83CDd349475Ce9dcb86663",
+      "urin": "https://rpc-mumbai.maticvigil.com/",
+      "urie": "https://mumbai.polygonscan.com",
+      "actv": true
+    },
+    {
+      "name": "Polygon",
+      "crnc": "MATIC",
+      "mode": "MAIN",
+      "code": "137",
+      "avtr": "X",
+      "cont": "0x907F8AE71cf95E0F448578c9550834BBa661E6B6",
+      "urin": "https://polygon-rpc.com",
+      "urie": "https://polygonscan.com",
+      "actv": false
+    }
+  ]
+}

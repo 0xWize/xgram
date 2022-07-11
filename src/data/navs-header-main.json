@@ -1,0 +1,60 @@
+{
+  "data" : [      
+    { 
+      "name":"Home",
+      "text":"", "icon":"bi-house-door",
+      "link":"home",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Events",
+      "text":"", "icon":"bi-people",
+      "link":"events",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"POAP",
+      "text":"", "icon":"bi-people",
+      "link":"poap",
+      "user":["indx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Network",
+      "text":"", "icon":"bi-people",
+      "link":"network",
+      "user":["indx", "bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Transfers",
+      "text":"", "icon":"bi-check-circle",
+      "link":"transfers",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"TokenStore",
+      "text":"", "icon":"bi-check-circle",
+      "link":"store",
+      "user":["bznx"],
+      "subs":["lite"],
+      "actv":true
+    },
+    { 
+      "name":"Transfers",
+      "text":"", "icon":"bi-check-circle",
+      "link":"transfers",
+      "user":["indx"],
+      "subs":["lite"],
+      "actv":false
+    }
+  ]
+}

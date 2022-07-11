@@ -1,0 +1,58 @@
+{
+  "data" : [      
+    { 
+      "name":"Web",
+      "text":"", 
+      "icon":"bx bx-globe",
+      "link":"",
+      "user":["ww"],
+      "subs":["ww"],
+      "actv":true
+    },
+    { 
+      "name":"Instagram",
+      "text":"", 
+      "icon":"bx bxl-instagram-alt",
+      "link":"e",
+      "user":["ww"],
+      "subs":["ww"],
+      "actv":true
+    },
+    { 
+      "name":"Facebook",
+      "text":"", 
+      "icon":"bx bxl-facebook-circle",
+      "link":"v",
+      "user":["ww"],
+      "subs":["ww"],
+      "actv": true
+    },
+    { 
+      "name":"YouTube",
+      "text":"", 
+      "icon":"bx bxl-youtube",
+      "link":"e",
+      "user":["ww"],
+      "subs":["ww"],
+      "actv":true
+    },
+    { 
+      "name":"Twitter",
+      "text":"", 
+      "icon":"bx bxl-twitter",
+      "link":"e",
+      "user":["ww"],
+      "subs":["ww"],
+      "actv":true
+    },
+    { 
+      "name":"LinkedIn",
+      "text":"", 
+      "icon":"bx bxl-linkedin-square",
+      "link":"e",
+      "user":["ww"],
+      "subs":["ww"],
+      "actv":true
+    }
+  ]
+}
