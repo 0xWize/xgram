@@ -8,13 +8,8 @@ import Events from '../viewsxe/events';
 
 import MediaView from "../viewsxx/media-view";
 
-// import TransferTokens from "../viewsxx/transfer-tokens";
-// import TransferTokenX from "../viewsxx/transfer-tokenx";
+import Auth from "../viewsxa/auth";
 
-// import UsersView from "../viewsxx/users-view";
-
-// import CredsCheck from "../viewscr/creds-check";
-// import CredsInfo from "../viewscr/creds-info";
 
 const routes = [
 
@@ -24,16 +19,8 @@ const routes = [
   
   { path:'/media/v/:id', component: MediaView, auth:false },
 
-  // { path:'/ec/:tokn/:cred', component: TransferTokens, auth:false },
-  // { path:'/ex/:tokn', component: TransferTokenX, auth:false },
-  
-  // { path:'/cc/:tokn/:cred', component: TransferTokens, auth:false },
-  // { path:'/cx/:tokn', component: TransferTokenX, auth:false },
-  
-  // { path:'/u/:id', component: UsersView, auth:false },
+  { path:'/auth/wallet', component: Auth, auth:false },
 
-  // { path:'/c/check', component: CredsCheck, auth:false },
-  // { path:'/c/:id', component: CredsInfo, auth:false },
 ]
 
 const PrivateRoute = (props) => {

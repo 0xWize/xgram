@@ -1,20 +1,26 @@
 // auth
 import { useEffect, useState } from "react";
 
-import WebbSpinner from "../webb/webb-spinner-sm";
+import WebbDividerMedium from "../webx/webb-divider-md";
+import WebbSpinner from "../webx/webb-spinner";
 
+import { GetAuthCode } from "../../services/srvc-auth-xrpl";
 
-export default function AuthWallet() { 
+export default function AuthWalletModule() { 
 
+  const asset = {form: "ww"}
   const [loading, setLoading] = useState(true)
 
   const [data, setData] = useState()
 
   useEffect( () => {
-    if (id){
+    if (asset){
       const fetchData = async() => {
+        const result = await GetAuthCode();
+        console.log (result);
+        setData(result.data)
 
-
+        setLoading(false)
       }
       fetchData()
     } else {}
@@ -34,9 +40,13 @@ export default function AuthWallet() {
     </>
   );
 
-
-
-
-
+  return (
+    <>
+      <div className="text-center">
+        <p className="text-bold">Authenticate Scan via XUMM </p>
+        <img src={data.code}></img>
+      </div>
+    </>
+  )
     
 }

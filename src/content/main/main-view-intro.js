@@ -39,7 +39,7 @@ export default function MainViewIntroModule() {
     <>
       <div className="p-3 back-color-wite text-center">
       
-          <p className="caption-sm m-0">BACKSTAGE (Mumbai)</p>
+          <p className="caption-sm m-0">AdWorks MediaHouse (Mumbai)</p>
           <p className="m-0">Broadcasting & Media Production Company</p>
       
       </div>
