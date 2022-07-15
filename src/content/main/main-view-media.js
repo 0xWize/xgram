@@ -8,6 +8,7 @@ import WebbDividerMedium from "../webx/webb-divider-md";
 import WebbSpinner from "../webx/webb-spinner";
 
 import { GetSalesCode } from "../../services/srvc-auth-xrpl";
+import { XTokenMint } from "../../services/srvc-tokens-xr";
 // import { GetUserCredentialsList } from "../../services/srvc-users-realm";
 
 const tokenlist = require('../../data/data-tokens-list.json')
@@ -33,6 +34,10 @@ export default function MainViewMediaModule() {
     const result = await GetSalesCode({rate: data.rate})
     console.log (result)
     setCode(result.data.code);
+
+    console.log(data.file.link)
+    const mintx = await XTokenMint({ tokenlink: data.file.link })
+
   }
 
 
